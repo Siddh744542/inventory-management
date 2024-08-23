@@ -76,7 +76,7 @@ const Sidebar = () => {
           ${isSidebarCollapsed ? "px-5" : "px-8"}`}
       >
         <Image
-          src="https://3-inventorymanagement-744.s3.ap-south-1.amazonaws.com/logo.png"
+          src="https://s3-inventorymanagement-744.s3.ap-south-1.amazonaws.com/logo.png"
           alt="stock-logo"
           width={27}
           height={27}
